@@ -1,0 +1,28 @@
+name: Bells
+favicon: null
+layout_spectrum: 0.045541802886873484
+typography_spectrum: 0.2005701125599444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8734143550973386
+  lightness: 0.9332311779726297
+  saturation: 0.11034240387380123
+  rhythmicContrast: 0.4354951698333025
+purpose: []
